@@ -1,0 +1,17 @@
+.article-header{
+	width: 200px;
+	margin-left: 130px;
+	margin-top: 50px;
+	background-color: wheat;
+	border-radius: 10px;
+}
+
+.article-content{
+	margin-left: 130px;
+	width: 1020px;
+	background-color: white;
+	border-radius: 10px
+}
+.article-content p{
+	font-size: 16px;
+}
