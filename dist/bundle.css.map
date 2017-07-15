@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/Home.css"],"names":[],"mappings":"AAAA;EACE,kBAAkB;CACnB;;AAED;EACE,uCAAuC;CACxC","file":"bundle.css","sourcesContent":[".container {\n  textAlign: center;\n}\n\n.header {\n  background-color: rgba(255, 0, 0, 0.5);\n}\n\n\n\n// WEBPACK FOOTER //\n// ./src/components/Home.css"],"sourceRoot":""}
